@@ -48,7 +48,7 @@
     echo "largest number:- $largest";
 
     echo "<h1>write a php program in which enter amount year rate by form and find the simple interest</h1>";
-
+                                
     $p = 100;
     $n = 2;
     $r = 22;
